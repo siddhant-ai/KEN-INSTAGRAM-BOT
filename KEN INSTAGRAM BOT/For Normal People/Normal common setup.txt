@@ -1,0 +1,9 @@
+This files.txt is for normal people for normal use.
+(1) Only follow @ken_to_bot on Instagram and Send message like this (-/regi_username)
+(2) After receiving bot will analyse message and reply you to overwrite your information.
+(3) Enter you Discord username like (_username discord) this will analyse your requst and will add to you in server soon.
+(4) After all this setup you will be able to monitor your followers through Discord!
+(5) Bot will send you reports after every half hour when Bot will find some changes in followers.
+
+Thank You!
+(Siddhant Gade)
